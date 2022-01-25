@@ -13,6 +13,8 @@ Full stack web developer with experience using backend and frontend technologies
 #### Watchual Demo | [Frontend Repo](https://github.com/sanjeevyg/WathualV2)
 :watch: Mobile shopping app for a person who values time and is fond of classy watches. React and Ruby on Rails.
 
+
+
 ### Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" align="left" width="40" height="40"/>
@@ -26,10 +28,13 @@ Full stack web developer with experience using backend and frontend technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" align="left" width="40" height="40"/>
 </p>
 
+<br>
+
+
 ### Contact
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin" align="left" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" align="left" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/sanjeevyogi/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin"   align="left" width="40" height="40"/>
+  <a href="https://twitter.com/syogifse" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" align="left" width="40" height="40"/>
 <p>
 
 
