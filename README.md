@@ -14,7 +14,6 @@ Full stack web developer with experience using backend and frontend technologies
 :watch: Mobile shopping app for a person who values time and is fond of classy watches. React and Ruby on Rails.
 
 ### Skills
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" align="left" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" align="left" width="40" height="40"/>
@@ -25,10 +24,17 @@ Full stack web developer with experience using backend and frontend technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" align="left" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" align="left" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" align="left" width="40" height="40"/>
-
 </p>
 
+### Contact
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin" align="left" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" align="left" width="40" height="40"/>
+<p>
 
+
+  
+  
 <!---
 sanjeevyg/sanjeevyg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
