@@ -34,7 +34,7 @@ Full stack web developer with experience using backend and frontend technologies
 ### Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjeevyogi/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin"   align="left" width="35" height="35"/>
-  <a href="https://twitter.com/syogifse" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" align="left" width="35" height="35"/>
+  <a href="https://twitter.com/syogifsse" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" align="left" width="35" height="35"/>
 <p>
 
 
